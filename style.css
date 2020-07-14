@@ -1,0 +1,48 @@
+body{
+    position: absolute;
+    background-color: #C0C0C0;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 100%;
+}
+#picture img{
+    padding: 5px;
+    height: 95%;
+    width: 95%;
+}
+#picture{
+    text-align: center;
+}
+#container{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100%;
+    background-color: white;
+    width: 60%;
+}
+#contact{
+    color: white;
+    text-align: center;
+}
+#rightside{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    text-align: center;
+    height: 100%;
+    width: 60%;
+    float: left;
+    background-color: white;
+}
+#leftside{
+    height: 100%;
+    background-color: #006600;
+    width: 35%;
+    float: left;
+}
+
+#footer{
+    background-color: #C0C0C0;
+    font-size: 13px;
+    clear: both;
+}
